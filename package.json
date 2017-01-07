@@ -1,0 +1,14 @@
+{
+  "name": "simpleexpressserver",
+  "version": "1.0.0",
+  "description": "A lightweight web server for static files",
+  "scripts": {
+    "start": "node tools/srcServer.js"
+  },
+  "author": "Pete Colley",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "open": "0.0.5"
+  }
+}
